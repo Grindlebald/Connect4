@@ -1,0 +1,28 @@
+.grid {
+  border: 1px solid;
+  height: 240px;
+  width: 280px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+h1{
+  color:royalblue
+  
+}
+
+
+.grid div {
+  height: 40px;
+  width: 40px;
+}
+
+.player-one {
+  background-color: red;
+  border-radius: 20px;
+}
+
+.player-two {
+  background-color: blue;
+  border-radius: 20px;
+}
